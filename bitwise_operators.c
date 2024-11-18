@@ -27,7 +27,7 @@ void calculate_the_maximum(int n, int k)
 int main() 
 {
     int n, k;
-  
+  printf("Enter two numbers :");
     scanf("%d %d", &n, &k);
     calculate_the_maximum(n, k);
  
